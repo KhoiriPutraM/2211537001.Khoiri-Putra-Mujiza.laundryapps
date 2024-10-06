@@ -1,242 +1,342 @@
 [
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_custom_button3.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/custom_button3.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_password.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_service.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_service.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-hdpi_ic_laundrt.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-hdpi/ic_laundrt.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_custom_button3.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\custom_button3.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_border_custom.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/border_custom.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_phone.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_harga2.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_harga2.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-mdpi_ic_password.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-mdpi/ic_password.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_promo.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_promo.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_laundry.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_laundry.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_promo.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_promo.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-mdpi_ic_laundrt.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-mdpi/ic_laundrt.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_promo.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_promo.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xxhdpi_ic_password.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xxhdpi/ic_password.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_laundrt.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_laundrt.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_logolaundry.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/logolaundry.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_laundry.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_laundry.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-mdpi_ic_username.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-mdpi/ic_username.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_harga2.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_harga2.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_login.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_login.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xxhdpi_ic_promo.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xxhdpi/ic_promo.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_laundrt.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_laundrt.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_pelanggan.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_pelanggan.xml"
+        "merged": "com.example.mobileif.app-debug-31:/layout_activity_layanan_add.xml.flat",
+        "source": "com.example.mobileif.app-main-33:/layout/activity_layanan_add.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-hdpi_ic_customer.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-hdpi/ic_customer.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\custom_button.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_password.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_password.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-anydpi_ic_customer.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-anydpi/ic_customer.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_username.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_username.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_customer.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_username.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_username.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-mdpi_ic_promo.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-mdpi/ic_promo.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_customer.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xhdpi_ic_service.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xhdpi/ic_service.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_service.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_service.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xhdpi_ic_laundrt.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xhdpi/ic_laundrt.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_password.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xhdpi_ic_customer.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xhdpi/ic_customer.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-anydpi_ic_service.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-anydpi/ic_service.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_password.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-anydpi_ic_promo.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-anydpi/ic_promo.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_username.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_username.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_pelanggan_add.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_pelanggan_add.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-mdpi_ic_customer.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-mdpi/ic_customer.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_harga.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_harga.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xxhdpi_ic_laundrt.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xxhdpi/ic_laundrt.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_laundrt.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_laundrt.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xxhdpi_ic_username.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xxhdpi/ic_username.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_harga.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_harga.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_add_laundry.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_add_laundry.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_layanan.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_layanan.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_laundrt.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_laundrt.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xhdpi_ic_promo.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xhdpi/ic_promo.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_detail_laundry.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_detail_laundry.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/xml_backup_rules.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_username.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_username.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_harga.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_harga.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xxhdpi_ic_customer.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xxhdpi/ic_customer.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_harga2.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_harga2.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_frame_custom.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/frame_custom.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_mail.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-anydpi_ic_username.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-anydpi/ic_username.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_mail.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_customer.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_custom_button.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/custom_button.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_promo.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_promo.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-hdpi_ic_password.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-hdpi/ic_password.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_promo.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_promo.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xxhdpi_ic_service.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xxhdpi/ic_service.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_phone.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-anydpi_ic_laundrt.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-anydpi/ic_laundrt.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-hdpi_ic_service.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-hdpi/ic_service.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_service.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_service.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_layanan.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_layanan.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_promo.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_promo.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable_custom_button2.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable/custom_button2.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_phone.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_phone.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-mdpi_ic_service.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-mdpi/ic_service.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-hdpi_ic_promo.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-hdpi/ic_promo.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xhdpi_ic_username.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xhdpi/ic_username.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_customer.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_customer.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_main.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_mail.png"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/layout_activity_detail_laundry.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/layout/activity_detail_laundry.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_promo.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_promo.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-xhdpi_ic_password.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-xhdpi/ic_password.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_pelanggan.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_pelanggan.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-hdpi_ic_username.png.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-hdpi/ic_username.png"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.mobileif.app-debug-31:/drawable-anydpi_ic_password.xml.flat",
-        "source": "com.example.mobileif.app-main-33:/drawable-anydpi/ic_password.xml"
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_harga2.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_harga2.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_item_layanan.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\item_layanan.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_service.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_service.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_service.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_logolaundry.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\logolaundry.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_frame_custom.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\frame_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_item_pelanggan.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\item_pelanggan.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_custom_button2.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\custom_button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xhdpi_ic_harga.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xhdpi\\ic_harga.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_laundrt.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_laundrt.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_username.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_username.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_harga2.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_harga2.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-anydpi_ic_mail.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-anydpi\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable_border_custom.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable\\border_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-hdpi_ic_harga.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-hdpi\\ic_harga.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_add_laundry.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_add_laundry.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\drawable-xxhdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\drawable-xxhdpi\\ic_customer.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\layout_activity_layanan_add.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\layout\\activity_layanan_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.7\\com.example.mobileif.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     }
 ]

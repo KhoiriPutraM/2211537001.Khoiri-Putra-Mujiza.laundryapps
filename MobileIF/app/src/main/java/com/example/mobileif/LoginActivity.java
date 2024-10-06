@@ -41,9 +41,11 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (TextUtils.isEmpty(edUsername.getText().toString())){
-                    Toast.makeText(LoginActivity.this, "Username tidak boleh kosong", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(LoginActivity.this, "Username tidak boleh kosong",
+                            Toast.LENGTH_SHORT).show();
                 } else if (TextUtils.isEmpty(edPassword.getText().toString())) {
-                    Toast.makeText(LoginActivity.this, "Password tidak boleh kosong", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(LoginActivity.this, "Password tidak boleh kosong",
+                            Toast.LENGTH_SHORT).show();
                 } else {
                     // intent ketika di click login akan pindah ke halaman main activity
                     Intent intent = new Intent(LoginActivity.this, MainActivity.class);

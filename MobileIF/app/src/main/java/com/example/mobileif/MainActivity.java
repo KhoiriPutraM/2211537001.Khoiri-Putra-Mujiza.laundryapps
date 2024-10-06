@@ -13,6 +13,9 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.example.mobileif.layanan.LayananActivity;
+import com.example.mobileif.pelanggan.PelangganActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     String username;

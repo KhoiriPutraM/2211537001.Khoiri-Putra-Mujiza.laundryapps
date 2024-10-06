@@ -8,6 +8,8 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="34" />
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <permission
         android:name="com.example.mobileif.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -28,13 +30,19 @@
         android:testOnly="true"
         android:theme="@style/Theme.MobileIF" >
         <activity
+            android:name="com.example.mobileif.layanan.LayananAddActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mobileif.pelanggan.PelangganAddActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.mobileif.PromoActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.mobileif.PelangganActivity"
+            android:name="com.example.mobileif.pelanggan.PelangganActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.mobileif.LayananActivity"
+            android:name="com.example.mobileif.layanan.LayananActivity"
             android:exported="false" />
         <activity
             android:name="com.example.mobileif.LaundryActivity"
@@ -56,8 +64,7 @@
         </activity>
         <activity
             android:name="com.example.mobileif.MainActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
