@@ -30,6 +30,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.MobileIF" >
         <activity
+            android:name="com.example.mobileif.layanan.LayananEditActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.mobileif.pelanggan.PelangganEditActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.mobileif.layanan.LayananAddActivity"
             android:exported="false" />
         <activity

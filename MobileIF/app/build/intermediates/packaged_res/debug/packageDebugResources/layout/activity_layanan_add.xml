@@ -70,6 +70,7 @@
                 android:drawableLeft="@drawable/ic_harga2"
                 android:drawablePadding="@dimen/sm"
                 android:inputType="textEmailAddress"
+                android:text="       /Kg"
                 android:padding="@dimen/md" />
         </LinearLayout>
 

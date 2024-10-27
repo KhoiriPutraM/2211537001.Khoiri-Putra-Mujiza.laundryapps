@@ -18,15 +18,17 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.mobileif.Adapter.AdapterLayanan;
 import com.example.mobileif.R;
-import com.example.mobileif.database.SQLiteHelper2;
+import com.example.mobileif.database.SQLiteHelper;
 import com.example.mobileif.model.ModelLayanan;
-import com.example.mobileif.model.ModelPelanggan;
+import com.example.mobileif.pelanggan.PelangganActivity;
+import com.example.mobileif.pelanggan.PelangganEditActivity;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class LayananActivity extends AppCompatActivity {
-    SQLiteHelper2 db; // Untuk operasi database SQLite
+
+    SQLiteHelper db; // Untuk operasi database SQLite
     Button btnLayAdd; // Tombol untuk tambah pelanggan
     RecyclerView rvLayanan; // RecyclerView untuk menampilkan data pelanggan
     AdapterLayanan adapterLayanan; // Adapter untuk RecyclerView
@@ -56,8 +58,12 @@ public class LayananActivity extends AppCompatActivity {
             RecyclerView.ViewHolder viewHolder = (RecyclerView.ViewHolder) v.getTag();
             int position = viewHolder.getAdapterPosition();
             ModelLayanan ml = list.get(position); // Ambil data pelanggan dari posisi yang diklik
-            Toast.makeText(LayananActivity.this, "" + ml.getTipe(),
-                    Toast.LENGTH_SHORT).show();
+            // kirim data ke activity lain
+            Intent intent= new Intent(LayananActivity.this, LayananEditActivity.class);
+            intent.putExtra("id", ml.getId());
+            intent.putExtra("tipe", ml.getTipe());
+            intent.putExtra("harga", ml.getHarga());
+            startActivity(intent);
         }
     };
 
@@ -100,7 +106,7 @@ public class LayananActivity extends AppCompatActivity {
     }
 
     private void setView() {
-        db = new SQLiteHelper2(this); // Inisialisasi SQLiteHelper
+        db = new SQLiteHelper(this); // Inisialisasi SQLiteHelper
         progressDialog = new ProgressDialog(this); // Inisialisasi ProgressDialog
         btnLayAdd = findViewById(R.id.btnLayAdd); // Temukan tombol tambah pelanggan dari layout
         rvLayanan = findViewById(R.id.rvLayanan); // Temukan RecyclerView dari layout

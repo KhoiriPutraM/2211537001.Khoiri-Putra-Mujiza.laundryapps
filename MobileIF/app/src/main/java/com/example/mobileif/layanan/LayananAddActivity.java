@@ -17,7 +17,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.example.mobileif.R;
-import com.example.mobileif.database.SQLiteHelper2;
+import com.example.mobileif.database.SQLiteHelper;
 import com.example.mobileif.model.ModelLayanan;
 
 import java.util.UUID;
@@ -25,7 +25,7 @@ import java.util.UUID;
 public class LayananAddActivity extends AppCompatActivity {
     EditText edLayAddTipe, edLayAddHarga;
     Button btnLayAddSimpan, btnLayAddBatal;
-    SQLiteHelper2 db;
+    SQLiteHelper db;
 
     @SuppressLint("MissingInflatedId")
     @Override
@@ -44,7 +44,7 @@ public class LayananAddActivity extends AppCompatActivity {
         btnLayAddSimpan = (Button) findViewById(R.id.btnLayAddSimpan);
         btnLayAddBatal = (Button) findViewById(R.id.btnLayAddBatal);
 
-        db = new SQLiteHelper2(LayananAddActivity.this);
+        db = new SQLiteHelper(LayananAddActivity.this);
         btnLayAddSimpan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -57,6 +57,7 @@ public class LayananAddActivity extends AppCompatActivity {
                 Toast.makeText(LayananAddActivity.this, ""+ml.getId()+ml.getTipe()+ml.getHarga(), Toast.LENGTH_SHORT).show();
 
                 boolean cek = db.insertLayanan(ml);
+                Toast.makeText(LayananAddActivity.this, ""+cek, Toast.LENGTH_SHORT).show();
                 if (cek == true){
                     Toast.makeText(LayananAddActivity.this, "Data berhasil ditambahkan", Toast.LENGTH_SHORT).show();
                     startActivity(new Intent(LayananAddActivity.this,  LayananActivity.class));

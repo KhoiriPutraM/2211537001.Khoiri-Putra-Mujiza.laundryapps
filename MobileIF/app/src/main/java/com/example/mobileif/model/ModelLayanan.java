@@ -5,22 +5,26 @@ public class ModelLayanan {
 
     // Method Getter and Setter
     public String getId() {
-        return  id;
+        return id;
     }
+
     public void setId(String id) {
         this.id = id;
     }
+
     public String getTipe() {
         return tipe;
     }
-    public void setTipe(String Tipe){
+
+    public void setTipe(String tipe) { // Ubah Tipe menjadi tipe
         this.tipe = tipe;
     }
-    public String getHarga(){
+
+    public String getHarga() {
         return harga;
     }
-    public void setHarga(String harga){
+
+    public void setHarga(String harga) {
         this.harga = harga;
     }
-
 }

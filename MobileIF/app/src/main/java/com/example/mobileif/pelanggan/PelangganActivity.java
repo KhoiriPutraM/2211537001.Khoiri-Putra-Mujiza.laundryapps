@@ -60,12 +60,17 @@ public class PelangganActivity extends AppCompatActivity {
             RecyclerView.ViewHolder viewHolder = (RecyclerView.ViewHolder) v.getTag();
             int position = viewHolder.getAdapterPosition();
             ModelPelanggan mp = list.get(position); // Ambil data pelanggan dari posisi yang diklik
-            Toast.makeText(PelangganActivity.this, "" + mp.getNama(),
-                    Toast.LENGTH_SHORT).show();
+            // kirim data ke activity lain
+            Intent intent= new Intent(PelangganActivity.this, PelangganEditActivity.class);
+            intent.putExtra("id", mp.getId());
+            intent.putExtra("name", mp.getNama());
+            intent.putExtra("email", mp.getEmail());
+            intent.putExtra("hp", mp.getHp());
+            startActivity(intent);
         }
     };
 
-    private void getData() {
+    public void getData() {
         list.clear(); // Bersihkan list sebelum mengambil data baru
         showMsg(); // Tampilkan loading dialog
         progressDialog.dismiss(); // Sembunyikan loading dialog setelah data berhasil diambil

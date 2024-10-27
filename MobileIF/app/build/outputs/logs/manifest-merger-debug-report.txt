@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:2:1-61:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\asus\.gradle\caches\transforms-4\462e02600b56a66f8051426fdb1abe8f\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\asus\.gradle\caches\transforms-4\0b64d0d661db4c8b67d2f58fbab394ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\asus\.gradle\caches\transforms-4\dba2e01a8c76622737e536e03a8c294e\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
@@ -60,8 +60,8 @@ ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileI
 	android:name
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:5:22-77
 application
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:7:5-53:19
-INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:7:5-53:19
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:7:5-59:19
+INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:7:5-59:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\asus\.gradle\caches\transforms-4\462e02600b56a66f8051426fdb1abe8f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\asus\.gradle\caches\transforms-4\462e02600b56a66f8051426fdb1abe8f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\asus\.gradle\caches\transforms-4\0b64d0d661db4c8b67d2f58fbab394ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -100,76 +100,88 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\as
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:15:9-46
 	android:dataExtractionRules
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:9:9-65
-activity#com.example.mobileif.layanan.LayananAddActivity
+activity#com.example.mobileif.layanan.LayananEditActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:18:13-55
-activity#com.example.mobileif.pelanggan.PelangganAddActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:18:13-56
+activity#com.example.mobileif.pelanggan.PelangganEditActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:21:13-59
-activity#com.example.mobileif.PromoActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:21:13-60
+activity#com.example.mobileif.layanan.LayananAddActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:23:9-25:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:24:13-42
-activity#com.example.mobileif.pelanggan.PelangganActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:24:13-55
+activity#com.example.mobileif.pelanggan.PelangganAddActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:26:9-28:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:27:13-56
-activity#com.example.mobileif.layanan.LayananActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:27:13-59
+activity#com.example.mobileif.PromoActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:29:9-31:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:30:13-52
-activity#com.example.mobileif.LaundryActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:30:13-42
+activity#com.example.mobileif.pelanggan.PelangganActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:32:9-34:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:33:13-44
-activity#com.example.mobileif.DetailLaundryActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:33:13-56
+activity#com.example.mobileif.layanan.LayananActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:35:9-37:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:36:13-50
-activity#com.example.mobileif.AddLaundryActivity
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:36:13-52
+activity#com.example.mobileif.LaundryActivity
 ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
 		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:39:13-47
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:39:13-44
+activity#com.example.mobileif.DetailLaundryActivity
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:42:13-50
+activity#com.example.mobileif.AddLaundryActivity
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:45:13-47
 activity#com.example.mobileif.LoginActivity
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:41:9-49:20
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:47:9-55:20
 	android:exported
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:49:13-36
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:42:13-42
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:48:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:44:13-48:29
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:50:13-54:29
 action#android.intent.action.MAIN
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:45:17-69
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:51:17-69
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:45:25-66
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:51:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:47:17-77
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:53:17-77
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:47:27-74
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:53:27-74
 activity#com.example.mobileif.MainActivity
-ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:50:9-52:39
+ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:56:9-58:39
 	android:exported
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:52:13-36
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:58:13-36
 	android:name
-		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:51:13-41
+		ADDED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:57:13-41
 uses-sdk
 INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml

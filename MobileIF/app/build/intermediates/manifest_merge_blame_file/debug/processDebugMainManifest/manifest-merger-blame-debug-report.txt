@@ -24,7 +24,7 @@
 17-->[androidx.core:core:1.13.0] C:\Users\asus\.gradle\caches\transforms-4\42dfdf811721b94244c28f65a2afec29\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:7:5-53:19
+19-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:7:5-59:19
 20        android:allowBackup="true"
 20-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:8:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -48,141 +48,153 @@
 31-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:15:9-46
 32        <activity
 32-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:17:9-19:40
-33            android:name="com.example.mobileif.layanan.LayananAddActivity"
-33-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:18:13-55
+33            android:name="com.example.mobileif.layanan.LayananEditActivity"
+33-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:18:13-56
 34            android:exported="false" />
 34-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:19:13-37
 35        <activity
 35-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:20:9-22:40
-36            android:name="com.example.mobileif.pelanggan.PelangganAddActivity"
-36-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:21:13-59
+36            android:name="com.example.mobileif.pelanggan.PelangganEditActivity"
+36-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:21:13-60
 37            android:exported="false" />
 37-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:22:13-37
 38        <activity
 38-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:23:9-25:40
-39            android:name="com.example.mobileif.PromoActivity"
-39-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:24:13-42
+39            android:name="com.example.mobileif.layanan.LayananAddActivity"
+39-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:24:13-55
 40            android:exported="false" />
 40-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:25:13-37
 41        <activity
 41-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:26:9-28:40
-42            android:name="com.example.mobileif.pelanggan.PelangganActivity"
-42-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:27:13-56
+42            android:name="com.example.mobileif.pelanggan.PelangganAddActivity"
+42-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:27:13-59
 43            android:exported="false" />
 43-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:28:13-37
 44        <activity
 44-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:29:9-31:40
-45            android:name="com.example.mobileif.layanan.LayananActivity"
-45-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:30:13-52
+45            android:name="com.example.mobileif.PromoActivity"
+45-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:30:13-42
 46            android:exported="false" />
 46-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:31:13-37
 47        <activity
 47-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:32:9-34:40
-48            android:name="com.example.mobileif.LaundryActivity"
-48-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:33:13-44
+48            android:name="com.example.mobileif.pelanggan.PelangganActivity"
+48-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:33:13-56
 49            android:exported="false" />
 49-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:34:13-37
 50        <activity
 50-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:35:9-37:40
-51            android:name="com.example.mobileif.DetailLaundryActivity"
-51-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:36:13-50
+51            android:name="com.example.mobileif.layanan.LayananActivity"
+51-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:36:13-52
 52            android:exported="false" />
 52-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:37:13-37
 53        <activity
 53-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:38:9-40:40
-54            android:name="com.example.mobileif.AddLaundryActivity"
-54-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:39:13-47
+54            android:name="com.example.mobileif.LaundryActivity"
+54-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:39:13-44
 55            android:exported="false" />
 55-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:40:13-37
 56        <activity
-56-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:41:9-49:20
-57            android:name="com.example.mobileif.LoginActivity"
-57-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:42:13-42
-58            android:exported="true" >
-58-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:43:13-36
-59            <intent-filter>
-59-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:44:13-48:29
-60                <action android:name="android.intent.action.MAIN" />
-60-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:45:17-69
-60-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:45:25-66
-61
-62                <category android:name="android.intent.category.LAUNCHER" />
-62-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:47:17-77
-62-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:47:27-74
-63            </intent-filter>
-64        </activity>
-65        <activity
-65-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:50:9-52:39
-66            android:name="com.example.mobileif.MainActivity"
-66-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:51:13-41
-67            android:exported="true" />
-67-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:52:13-36
-68
-69        <provider
-69-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-70            android:name="androidx.startup.InitializationProvider"
-70-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-71            android:authorities="com.example.mobileif.androidx-startup"
-71-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
-72            android:exported="false" >
-72-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
-73            <meta-data
-73-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-74-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
-75                android:value="androidx.startup" />
-75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
-76            <meta-data
-76-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\asus\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-77-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\asus\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-78                android:value="androidx.startup" />
-78-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\asus\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+56-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:41:9-43:40
+57            android:name="com.example.mobileif.DetailLaundryActivity"
+57-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:42:13-50
+58            android:exported="false" />
+58-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:43:13-37
+59        <activity
+59-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:44:9-46:40
+60            android:name="com.example.mobileif.AddLaundryActivity"
+60-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:45:13-47
+61            android:exported="false" />
+61-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:46:13-37
+62        <activity
+62-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:47:9-55:20
+63            android:name="com.example.mobileif.LoginActivity"
+63-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:48:13-42
+64            android:exported="true" >
+64-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:49:13-36
+65            <intent-filter>
+65-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:50:13-54:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:51:17-69
+66-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:51:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:53:17-77
+68-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:53:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:56:9-58:39
+72            android:name="com.example.mobileif.MainActivity"
+72-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:57:13-41
+73            android:exported="true" />
+73-->D:\Aplikasi Mobile\2211537001.Khoiri-Putra-Mujiza.laundryapps\MobileIF\app\src\main\AndroidManifest.xml:58:13-36
+74
+75        <provider
+75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+76            android:name="androidx.startup.InitializationProvider"
+76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+77            android:authorities="com.example.mobileif.androidx-startup"
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+78            android:exported="false" >
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 79            <meta-data
-79-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
-80                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 81                android:value="androidx.startup" />
-81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
-82        </provider>
-83
-84        <receiver
-84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
-85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
-86            android:directBootAware="false"
-86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
-87            android:enabled="true"
-87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
-88            android:exported="true"
-88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
-89            android:permission="android.permission.DUMP" >
-89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
-90            <intent-filter>
-90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
-91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
-91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
-92            </intent-filter>
-93            <intent-filter>
-93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
-94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
-94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
-95            </intent-filter>
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\asus\.gradle\caches\transforms-4\51f1927f6706bb4e824223b170abb02f\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\asus\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+83-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\asus\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+84                android:value="androidx.startup" />
+84-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\asus\.gradle\caches\transforms-4\fab565b32d1caf7d32cc0e9c5a768a04\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+85            <meta-data
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+87                android:value="androidx.startup" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+88        </provider>
+89
+90        <receiver
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+91            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+92            android:directBootAware="false"
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+93            android:enabled="true"
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+94            android:exported="true"
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+95            android:permission="android.permission.DUMP" >
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
 96            <intent-filter>
-96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
-97                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
-97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+97                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 98            </intent-filter>
 99            <intent-filter>
-99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
-100                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
-100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+100                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 101            </intent-filter>
-102        </receiver>
-103    </application>
-104
-105</manifest>
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+103                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+104            </intent-filter>
+105            <intent-filter>
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+106                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\asus\.gradle\caches\transforms-4\7c6c24dcca5059c7b3ce34791d5d98cd\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+107            </intent-filter>
+108        </receiver>
+109    </application>
+110
+111</manifest>
